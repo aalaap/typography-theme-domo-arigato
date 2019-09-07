@@ -1,7 +1,7 @@
 {
   "name": "typography-theme-domo-arigato",
   "description": "A theme for Typography.js with Roboto fonts.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Aalaap Ghag <aalaap@gmail.com>",
   "main": "./dist/index.js",
   "keywords": [
