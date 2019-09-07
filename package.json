@@ -1,0 +1,39 @@
+{
+  "name": "typography-theme-domo-arigato",
+  "description": "A theme for Typography.js with Roboto fonts.",
+  "version": "1.0.0",
+  "author": "Aalaap Ghag <aalaap@gmail.com>",
+  "main": "./dist/index.js",
+  "keywords": [
+    "css",
+    "typography",
+    "typography-theme",
+    "roboto"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/aalaap/typography-theme-domo-arigato",
+  "bugs": {
+    "url": "https://github.com/aalaap/typography-theme-domo-arigato/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalaap/typography-theme-domo-arigato.git"
+  },
+  "scripts": {
+    "build": "babel src --out-dir dist/",
+    "flow": "flow",
+    "lint": "eslint --ext .js,.jsx --ignore-path .gitignore .",
+    "watch": "babel -w src --out-dir dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gray-percentage": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "flow-bin": "^0.45.0"
+  }
+}
