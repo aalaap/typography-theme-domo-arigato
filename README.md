@@ -21,6 +21,12 @@ const typography = new Typography(domoArigatoTheme)
 
 Domo Arigato is based on the [US Web Design Standards](https://github.com/KyleAMathews/typography.js/tree/master/packages/typography-theme-us-web-design-standards) theme. It uses fonts from the [Roboto family by Google](https://fonts.google.com/specimen/Roboto).
 
+The name is from a 1983 song called [Mr. Roboto by Styx](https://genius.com/Styx-mr-roboto-lyrics).
+
+[![Styx - Mr. Roboto](https://img.youtube.com/vi/uc6f_2nPSX8/0.jpg)](https://www.youtube.com/watch?v=uc6f_2nPSX8)
+
+どうもありがとうミスターロボット
+
 ## License
 
 This software is licenced under WTFPL. Please see enclosed `LICENSE` file for details.
