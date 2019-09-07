@@ -1,4 +1,4 @@
-# Domo Arigato - a [Typography.js](https://github.com/kyleamathews/typography.js) theme
+# Domo Arigato — a [Typography.js](https://github.com/kyleamathews/typography.js) theme
 [![npm](https://img.shields.io/npm/v/typography-theme-domo-arigato.svg)](https://www.npmjs.com/package/typography-theme-domo-arigato)    [![npm](https://img.shields.io/npm/dt/typography-theme-domo-arigato.svg)](https://www.npmjs.com/package/typography-theme-domo-arigato)    [![WTFPL](https://img.shields.io/github/license/aalaap/typography-theme-domo-arigato)](https://img.shields.io/github/license/aalaap/typography-theme-domo-arigato)
 
 A theme for Typography.js with Roboto fonts.
